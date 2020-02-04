@@ -1,0 +1,23 @@
+{
+  "name": "telegrambottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karaketir16/telegramBotTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karaketir16/telegramBotTest/issues"
+  },
+  "homepage": "https://github.com/karaketir16/telegramBotTest#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request-promise": "^4.2.4"
+  }
+}
